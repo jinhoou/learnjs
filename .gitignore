@@ -2,3 +2,6 @@
 dist
 working
 master
+doc/*
+doc/learnjs.sublime-workspace
+doc/learnjs.sublime-project
